@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*simple test*/
+/*simple test*//**nm,mn/
 int main(void)
 {
   printf("Hello World\n");
